@@ -1,0 +1,2 @@
+# Diabetes-prediction-knn-classifier-and-logistic
+diabetic prediction in these project we analzying other factors relaed to blood level how it's affected the blood level if people have blood sugar or not classify using logistic regression also i add another algorithm is Knn neighnors before im involving code i did oversampling on minority variables so i can solve imbalance data problem in these datset i face imbalance values which is affect true prediction after i did sampling i solve and increase my correct prediction in confusion matrix
